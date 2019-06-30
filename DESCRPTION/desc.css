@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(desc.jpg);
+    background-size: 100% 780px;
+    margin: 0px;
+    margin-top: 70px;
+    padding: 0px;
+    text-align: left;
+    margin-left: 50px;
+}
+h1{
+    color: blanchedalmond;
+    font-size: 28px;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    font-size: 24px;
+    text-align: right;
+    margin-right: 50px;
+}
+h3{
+    color: aliceblue;
+    text-align: right;
+    margin-right: 50px;
+    font-size: 22px;
+}
+p{
+    color: bisque;
+    font-size: 22px;
+}

@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(School.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.main-nav li{
+    display: inline-block;
+}
+.main-nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.main-nav li a:hover{
+    background-color: darkgray;
+    border: 1px solid white;
+}
+.logo img{
+    width: 140px;
+    height: auto;
+}
+body{
+    font-family: inherit;
+}
+.row{
+    max-width: 1200px;
+    margin: auto;
+}
+h1{
+    text-transform: uppercase;
+    color: lavender ;
+    font-size: 50px;
+    margin-top: -40px;
+    margin-left: 400px;
+}
+h2{
+    color: teal;
+    font-size: 33px;
+    margin-top: 50px;
+}
+p{
+    font-size: 20px;
+    color: lavenderblush;
+    margin-top: 20px;
+}

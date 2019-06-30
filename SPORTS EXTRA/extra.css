@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(extracurricular.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+h1{
+    margin-left: 50px;
+    font-size: 6vh;
+    color: bisque
+}
+h2{
+    margin-left: 50px;
+    font-size: 5vh;
+    color: lavenderblush
+}
+h3{
+    margin-left: 50px;
+    font-size: 3vh;
+    color: lavenderblush;
+    text-align: left
+}
+p{
+    font-size: 18px;
+    color: lavenderblush;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: bold;
+}
+li{
+    color: white;
+    padding: 5px 20px;
+    font-family: monospace;
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 50px;
+    text-align: left;
+}

@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(admission.png);
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+.ADMISSION{
+    background: #2d85b0;
+    width: 500px;
+    margin: 0px 0px 0px 430px;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#ADMISSION{
+    margin-left: 50px;
+}
+label{
+    color: white;
+    font-family: sans-serif;
+}
+#Name{
+    width: 300px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+}
+#ph{
+    width: 60px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+}
+#num{
+    width: 235px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+}
+#sub{
+    width: 200px;
+    padding: 7px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+}
