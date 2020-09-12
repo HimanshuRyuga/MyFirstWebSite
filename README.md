@@ -1,2 +1,2 @@
-# MyFirstWebSite
-I Have Been Learning HyperTextMarkupLanguage and CascadingStyleSheet, so i thought I must have make some kind of Website so i have made it.
+# MyFirstSite
+I have learning web-development and its my first web-page.
